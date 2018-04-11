@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```Ruby
+ThreeSmartViewTool::Renderer.copyright 'Engineering Conference Global Platform', 'All rights reserved'
+```
 
 ## Development
 
