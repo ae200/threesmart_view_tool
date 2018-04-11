@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```Ruby
-ThreeSmartViewTool::Renderer.copyright 'Engineering Conference Global Platform', 'All rights reserved'
+ThreeSmartViewTool::Renderer.copyright 'Adegbenga Efunnuga', 'All rights reserved'
 ```
 
 ## Development
